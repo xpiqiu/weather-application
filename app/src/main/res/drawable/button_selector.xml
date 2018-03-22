@@ -3,9 +3,5 @@
     <!--When the button is pressed-->
     <item android:drawable="@drawable/button_shape_pressed" android:state_pressed="true" />
     <!--Default-->
-<<<<<<< HEAD
-    <item android:drawable="@drawable/button_shape" />
-=======
     <item android:drawable="@drawable/button_shape2" />
->>>>>>> 1
 </selector>
