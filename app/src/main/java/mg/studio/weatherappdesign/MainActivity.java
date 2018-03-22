@@ -44,12 +44,9 @@ public class MainActivity extends AppCompatActivity {
             NetworkInfo info = connectivity.getActiveNetworkInfo();
             if (info != null && info.isConnected())
             {
-                // 当前所连接的网络可用
-                //Toast.makeText(this, "网络可用", Toast.LENGTH_SHORT).show();
                 return true;
             }
         }
-        //Toast.makeText(this, "网络不可用", Toast.LENGTH_SHORT).show();
         return false;
     }
     public void btnClick(View view) {
