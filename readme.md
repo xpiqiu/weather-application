@@ -101,5 +101,5 @@ public boolean Net(Context context){
 ```
 part3:final  effect
 -
-![](https://github.com/xpiqiu/first-/blob/master/HasNet.png)
- ![](https://github.com/xpiqiu/first-/blob/master/NoNet.png)
+![](https://github.com/xpiqiu/weather-application/blob/master/Hasnet.png)
+ ![](https://github.com/xpiqiu/weather-application/blob/master/NoNet.png)
